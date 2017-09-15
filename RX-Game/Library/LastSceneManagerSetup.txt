@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Town/HubTownScene.unity
+  isLoaded: 1
+  isActive: 1
